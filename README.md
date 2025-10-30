@@ -70,7 +70,3 @@ Some of the visualizations created in this project include:
 
 ---
 
-
----
-
-## 📁 Repository Structure
